@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootUploadMultipartFile2MySQL
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ORLANDO
+Implementation-Vendor-Id: com.javasampleapproach.springjpa
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootUploadMultipartFile2MySQL
+Created-By: Maven Integration for Eclipse
+
